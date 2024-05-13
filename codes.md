@@ -1,5 +1,5 @@
 
-1. [Port scan](##Port-scan)
+1. [Port scan](##wpscan)
 
 ## Advanced_ping
 ``` sh
