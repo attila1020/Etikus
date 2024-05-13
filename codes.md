@@ -111,5 +111,3 @@ Send to Repeater (jelszavak próbálgatása, manualisan)
 Send to Intruder 
  Hozzáadjuk az add al, majd payload tab, megadjuk a jelszavakat és start attack, ezután nézzük a hosszakat
 
- ## Basic Authos
- hydra
