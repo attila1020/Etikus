@@ -1,8 +1,11 @@
-## Advanced ping
+
+1. [Port scan](##Port-scan)
+
+## Advanced_ping
 ``` sh
 sudo nmap -sn <IP>
 ```
-## Port scan
+## Port-scan
 ``` sh
 sudo nmap -sS -sV <IP>
 ```
